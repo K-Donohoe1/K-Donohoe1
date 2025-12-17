@@ -45,11 +45,6 @@ I needed to predict the performance of a newly formed league structure (includin
 
 ![Repo Size](https://img.shields.io/github/repo-size/K-Donohoe1/LEC-2026-Prediction?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/K-Donohoe1/LEC-2026-Prediction?style=flat-square)
----
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[K-Donohoe1]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[K-Donohoe1]&layout=compact&theme=radical)
 
 ---
 
